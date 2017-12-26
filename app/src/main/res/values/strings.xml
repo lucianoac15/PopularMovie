@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="title_activity_settings">Configurações</string>
+    <string name="action_settings">Configurações</string>
+    <string name="pref_list_type_label">Ordenar Filmes Por:</string>
+    <string name="pref_list_type_key" translatable="false">listType</string>
+    <string name="pref_list_type_default" translatable="false">popular</string>
+    <string name="user_rating_label">Avaliação dos Usuários</string>
+    <string name="release_date_label">Lançamento</string>
+    <string name="sinopse_label">Sinopse</string>
+    <string name="movie_detail_title">Detalhes do Filme</string>
+    <string name="n_o_foi_detectada_conex_o_com_a_internet">Não foi detectada conexão com a internet.</string>
+    <string name="tentar_novamente">Tentar Novamente</string>
+    <string name="nao_tem_filme">Nao há filmes a serem exibidos</string>
+
+</resources>
